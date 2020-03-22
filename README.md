@@ -1,2 +1,4 @@
-# dashaglib1994-gmail.com
-Clean Python rules
+#Clean Python
+
+## There are notes based on "Clean Python. Elegant Coding in Python" book by Sunil Kapil
+
